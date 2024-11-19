@@ -8,7 +8,7 @@
 ---
 
 ## OBJECTIVE  
-Aspiring software engineer with a strong foundation in computer science, specializing in data science. Passionate about developing innovative solutions. Actively learning and expanding my skill set through projects.
+A Linux Enthusiast and a React FrontEnd Web Developer. Proficient in working on with Python and Large Language Models. Passionate about developing innovative solutions. Actively learning and expanding my skill set through projects.
 
 ---
 
@@ -18,57 +18,53 @@ Aspiring software engineer with a strong foundation in computer science, special
 **B. Tech (Hons.) CSE Data Science**  
 _Bhilai, Chhattisgarh, India_  
 **2022 - Present**  
-- Hackathon rank holder for FACE EMOTION DETECTION model using PYTHON.  
-- 4th Semester GPA: **7.9**  
-- Currently in 5th Semester  
+- Currently in 3rd Year  
 
 ### Kendriya Vidyalaya BMY  
 **Senior Secondary Education (Class 12th)**  
 _Bhilai, Chhattisgarh, India_  
-**2015 - 2021**  
-- Overall Percentage: **78.8%**  
-- Grade: **95% in Computer Science**  
+**2020 - 2021**   
 
 **Secondary Education (Class 10th)**  
-- Overall Percentage: **88.6%**  
-- Grade: **93% in Mathematics**  
+**2015 - 2020**   
+
 
 ---
 
 ## PROJECTS  
 
-### AI Scientist: Sakana AI  
+### AI Scientist: An Automated AI Agent which generates Research Papers with Novelty   
 **2024**  
 Contributed to Sakana AI’s open-source project to automate research paper generation.  
 - Integrated open-source LLMs to develop an AI Scientist capable of generating research papers.  
 - Generated a paper titled "EXPLORING STYLE TRANSFER WITH SMALL CHARACTER-LEVEL TRANSFORMERS" entirely by utilizing free resources.  
 [View PDF](https://github.com/xprabhudayal/ai-scientist/blob/main/rp_style_transfer.pdf)
 
-### Remote Shell Access Bot: XAdmin  
+### XAdmin Telegram Bot : Remotely Access the Terminal of Victim PC
 **2024**  
 Python-based program enabling reverse shell connections without having login credentials via Telegram API.  
 - A Python-based bot that turns your Telegram into a secure command center for your PC.  
 [GitHub Repository](https://github.com/xprabhudayal/xadmin/)
 
-### Python Module: XS  
+### Created LLM-XS Python Module :    
 **2024**  
 Creates Endpoint URL for Open-Sourced LLMs running onto any Cloud Instance like Google Colab.  
 - Developed and published a Python package for creating Endpoint URLs for LLMs.  
 [GitHub Repository](https://github.com/xprabhudayal/xs/)
 
-### AI Telegram Bot: XGen-AI  
+### XGen-AI Telegram Bot: Chat with your Documents  
 **2024**  
-A Telegram bot with RAG capabilities using Meta Llama 3.1.  
+A Telegram bot with RAG capabilities using Open-Sourced Language Model.  
 - It supports document-based chat Q&A alongside the intelligence of an advanced language model.  
 [GitHub Repository](https://github.com/xprabhudayal/xgen-ai/)
 
-### E-Commerce Website: MetroCart  
+### A Minimalistic E-Commerce Website: MetroCart  
 **2024**  
 A minimalistic and elegant e-commerce website using HTML, CSS, and JavaScript.  
 - Focused on providing a superior and minimalist user experience.  
 [View Website](https://metrocart.vercel.app/)
 
-### Emotion Detection Bot: XFace  
+### XFace Telegram Bot : Emotion Detection using Python   
 **2022**  
 A Telegram bot that detects facial expressions using Python.  
 - Integrated with Telegram API for better user experience.  
