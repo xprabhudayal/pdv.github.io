@@ -74,17 +74,30 @@ A Telegram bot that detects facial expressions using Python.
 ---
 
 ## SKILLS  
-- **Programming Languages:** Python, C, C++, JavaScript  
-- **Web Technologies:** HTML5, CSS, ReactJS  
-- **Data Science & Machine Learning:** Pandas, Seaborn, R  
-- **Database Systems:** MySQL  
-- **Data Structures and Algorithms**  
-- **Database Management Systems**  
+
+| **Programming Languages** | Python, C++, JavaScript       |
+|----------------------------|-------------------------------|
+| **Web Technologies**       | HTML, CSS, ReactJS           |
+| **Data Science**           | Pandas, Seaborn, R           |
+| **Database Systems**       | MySQL                        |
 
 ---
 
-## CERTIFICATIONS  
+## RELEVANT COURSEWORK  
 
+| **Core Topics**                          | **Advanced Topics**                      |
+|------------------------------------------|------------------------------------------|
+| Data Structures and Algorithms           | Machine Learning and Artificial Intelligence |
+| Engineering Mathematics                  | Database Management Systems              |
+
+## HONOURS AND AWARDS 
+### Indian Institute of Management Hackathon Winner  
+**2024**  
+Data Analyst Hackathon organized by IIM-Nagpur’s incubation center InFED.  
+- Selected to present for their Startup’s Problem: AI Product Comparison.  
+- Automated the report generation of 22 pages by using a Python-based AI Agent.  
+
+## CERTIFICATIONS  
 ### PwC Switzerland Power BI Job Simulation  
 - Completed a job simulation where I strengthened my Power BI skills to better understand clients and their data visualization needs.  
 - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.  
