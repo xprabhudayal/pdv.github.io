@@ -1,6 +1,9 @@
 # PRABHUDAYAL VAISHNAV  
-**Email:** [meenakshiprabhu0@gmail.com](mailto:meenakshiprabhu0@gmail.com) | **GitHub:** [github.com/xprabhudayal](https://github.com/xprabhudayal) | **LinkedIn:** [linkedin.com/in/xprabhudayal/](https://www.linkedin.com/in/xprabhudayal/)  
-**Location:** Bhilai, Chhattisgarh, India  
+---
+##### **Official Mail:** [meenakshiprabhu0@gmail.com](mailto:meenakshiprabhu0@gmail.com)
+##### **GitHub:** [github.com/xprabhudayal](https://github.com/xprabhudayal)
+##### **LinkedIn:** [linkedin.com/in/xprabhudayal/](https://www.linkedin.com/in/xprabhudayal/)  
+##### **Location:** Bhilai, Chhattisgarh, India  
 
 ---
 
